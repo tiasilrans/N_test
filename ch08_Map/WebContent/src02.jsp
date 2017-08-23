@@ -4,6 +4,9 @@
 <div align="center">
 	<div id="map" style="width: 80%; height: 50%;"></div>
 </div>
+<div>
+	이야...
+</div>
 <script>
 	console.log(navigator.geolocation); // 사용자 위치정보를 담고 있는 객체.	
 	// https 가 아니면 이건 쓸수가 없음. - 브라우저가 차단을 시킴.
